@@ -1,0 +1,4 @@
+baseURL = 'https://technicallybeautiful.ca/'
+languageCode = 'en-us'
+title = 'Technically Beautiful Ottawa'
+theme = 'PaperMod'
