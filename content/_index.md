@@ -1,6 +1,6 @@
 +++
 date = '2025-09-25T22:29:03-04:00'
-draft = False
+draft = false
 title = 'Technically Beautiful Ottawa'
 +++
 # Why the name?
