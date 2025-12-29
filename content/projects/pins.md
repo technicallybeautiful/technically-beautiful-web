@@ -1,6 +1,6 @@
 +++
 date = '2025-12-29T02:46:26-04:00'
-draft = true
+draft = false
 title = 'Gatineau Day Shelter Pins'
 aliases = ["/pins"]
 +++
