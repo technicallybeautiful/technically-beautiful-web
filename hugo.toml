@@ -13,3 +13,14 @@ name = "Contact"
 url  = "/contact/"
 weight = 20
 
+[[menu.main]]
+identifier = 'projects'
+name = "Projects"
+url = "/projects/"
+weight = 30
+
+[[menu.main]]
+parent = "projects"
+name   = "Shelter Pins"
+url    = "projects/pins/"
+weight = 31
