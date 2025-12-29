@@ -2,3 +2,14 @@ baseURL = 'https://technicallybeautiful.ca/'
 languageCode = 'en-us'
 title = 'Technically Beautiful Ottawa'
 theme = 'PaperMod'
+
+[[menu.main]]
+name = "About"
+url  = "/"
+weight = 10
+
+[[menu.main]]
+name = "Contact"
+url  = "/contact/"
+weight = 20
+
