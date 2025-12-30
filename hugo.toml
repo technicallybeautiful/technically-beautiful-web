@@ -24,3 +24,6 @@ parent = "projects"
 name   = "Shelter Pins"
 url    = "projects/pins/"
 weight = 31
+
+[params]
+  disableSpecial1stPost = true
