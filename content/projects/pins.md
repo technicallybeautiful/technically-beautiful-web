@@ -10,6 +10,7 @@ I grew up skiing in the Gatineaus and have always loved the day shelters. I'm ho
 Pins have now been dropped off at:
 - Keogan, Shilly Shally, Huron, and Western.
 - Healey and Herridge
+- Brown
 
 I will update here as more are dropped off.
 ## Reaching out
