@@ -13,7 +13,7 @@ Pins have now been dropped off at:
 - Brown
 - Renaud and Lusk
 
-Reports are that all pins have been taken at Keogan, Shilly Shally, Huron, Western, Healey and Herridge. 
+Reports are that all pins have been taken at Keogan, Shilly Shally, Huron, Western, Healey and Herridge. I am in the process of goig back to collect the empty containers. 
 
 I will update here as more are dropped off.
 ## Reaching out
