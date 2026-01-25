@@ -7,15 +7,10 @@ aliases = ["/pins"]
 ![Gatineau Shelter Pins](/images/pins.jpg)
 I grew up skiing in the Gatineaus and have always loved the day shelters. I'm hoping these pins will add some extra charm to them — and maybe encourage people to visit shelters they’ve never made it out to before. They’re meant to be simple, collectable, and just a little whimsical.
 ## Status
-Pins have now been dropped off at:
-- Keogan, Shilly Shally, Huron, and Western.
-- Healey and Herridge
-- Brown
-- Renaud and Lusk
+As of Jan 25, pins have been dropped off at all shelters.
+Reports are that all pins have been taken at Keogan, Shilly Shally, Huron, Western, Lusk, Healey and Herridge.
+I don't have any refills and am in the process of going back to collect the empty containers. 
 
-Reports are that all pins have been taken at Keogan, Shilly Shally, Huron, Western, Healey and Herridge. I am in the process of goig back to collect the empty containers. 
-
-I will update here as more are dropped off.
 ## Reaching out
 Feel free to email me at: info@technicallybeautiful.ca to let me know:
 - if you like them (let me know which is your favourite or send me a photo of them on a backpack)
